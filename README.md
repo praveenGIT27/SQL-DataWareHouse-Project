@@ -1,9 +1,6 @@
 # SQL Data Warehouse Project
 
 A modern data warehouse built on **SQL Server** using the **Medallion Architecture** (Bronze, Silver, Gold). It consolidates sales data from two source systems (CRM and ERP) into a star schema that is ready for reporting and analytics.
-
-> Built by following the *SQL Data Warehouse from Scratch* tutorial by [Data with Baraa](https://www.youtube.com/watch?v=9GVqKuTVANE). Datasets come from the tutorial's project materials (MIT License).
-
 ---
 
 ## Architecture
